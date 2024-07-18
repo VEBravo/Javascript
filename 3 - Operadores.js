@@ -8,7 +8,7 @@
 // ===  Revisa valor y dato
 // !=   Revisa solo valor
 // !==  Revisa valor y tipo de dato
-// > < >= =<
+// > < >= <=
 
 let a = 5;
 let b ='5';

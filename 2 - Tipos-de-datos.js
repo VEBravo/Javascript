@@ -2,7 +2,8 @@
 // Las variables se crean con let 
 let entero = 10;
 let float = 2.5;
-let otroString = 'A';
+let otroString = 'Arbol';
+otroString = 'Avión';
 let booleano = true;
 let unEntero = 7, unString = "Hola"; 
 
@@ -34,4 +35,5 @@ const GRAVEDAD = 9.8;
 console.log(GRAVEDAD);
 console.log(Math.PI);
 
-
+// Nota: las variables de tipo string son inmutables, no podemos acceder a una posicion
+//       y cambiar su valor. Pero si podemos acceder a ellos para imprimirlos
